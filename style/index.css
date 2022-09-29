@@ -1,0 +1,40 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    padding-left: 44px;
+    padding-top: 12px;
+    justify-content: center;
+    font-size: 33px;
+    font-family: sans-serif;
+}
+.heading{
+    padding-left: 358px;
+    padding-top: 15px;
+    font-family: sans-serif;
+}
+.logo{
+    color:blueviolet;
+}
+.content{
+    padding-left: 429px;
+}
+.btn{
+    padding-left: 550px;
+}
+
+.button{
+    border-color: blue;
+    border: 2px;
+    padding-left: 30px;
+}
+.img{
+    width: 447px;
+    height: 282px;
+    padding-left: 492px;
+}
+.image{
+    width: 100px;
+    height: 200px;
+}
